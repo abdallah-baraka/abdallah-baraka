@@ -1,0 +1,7 @@
+fastapi
+fastapi-mail
+sqlalchemy
+uvicorn
+Werkzeug
+mysqlclient
+
